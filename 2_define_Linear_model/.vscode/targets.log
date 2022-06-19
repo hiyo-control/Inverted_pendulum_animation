@@ -1,0 +1,320 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for aarch64-unknown-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sun Jun 19 14:08:26 2022
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-30712041-3296-46a3-9f84-ae8ef46e3f61.sock
+# environment
+VSCODE_CWD = /home/shotaro/1_gnuplot/2_define_Linear_model
+# default
+MAKE_COMMAND := make
+# environment
+XRDP_PULSE_SINK_SOCKET = xrdp_chansrv_audio_out_socket_10
+# environment
+QT_ACCESSIBILITY = 1
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/shotaro/1_gnuplot/2_define_Linear_model
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+XDG_DATA_DIRS = /usr/share/gnome:/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+# environment
+OLDPWD = /home/shotaro/1_gnuplot
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/shotaro/.config/Code/CachedData/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# environment
+GNOME_TERMINAL_SERVICE = :1.227
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := /home/shotaro/1_gnuplot/2_define_Linear_model
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 13049
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+SESSION_MANAGER = local/shotaro-desktop:@/tmp/.ICE-unix/1942,unix/shotaro-desktop:/tmp/.ICE-unix/1942
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"f5b8523d60216379ef9ba6dc243eb093.ja","_translationsConfigFile":"/home/shotaro/.config/Code/clp/f5b8523d60216379ef9ba6dc243eb093.ja/tcf.json","_cacheRoot":"/home/shotaro/.config/Code/clp/f5b8523d60216379ef9ba6dc243eb093.ja","_resolvedLanguagePackCoreLocation":"/home/shotaro/.config/Code/clp/f5b8523d60216379ef9ba6dc243eb093.ja/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5","_corruptedFile":"/home/shotaro/.config/Code/clp/f5b8523d60216379ef9ba6dc243eb093.ja/corrupted.info","_languagePackSupport":true}
+# default
+MAKE_HOST := aarch64-unknown-linux-gnu
+# makefile (from 'Makefile', line 1)
+COMPILER = gcc
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+UID = 1000
+# environment
+SHLVL = 1
+# environment
+GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/28cb5a6a_346e_4cab_be2a_41d95cc1bcd8
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+# default
+MAKEFILES := 
+# environment
+XRDP_PULSE_SOURCE_SOCKET = xrdp_chansrv_audio_in_socket_10
+# automatic
+^F = $(notdir $^)
+# makefile (from 'Makefile', line 7)
+HEADER = ./include/define_Linear_model.c ./include/define_Linear_model_function.h
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# automatic
+?F = $(notdir $?)
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# environment
+LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = shotaro
+# environment
+PULSE_SCRIPT = /etc/xrdp/pulse/default.pa
+# makefile
+.DEFAULT_GOAL := all
+# environment
+SYSTEMD_EXEC_PID = 1976
+# environment
+DISPLAY = :10.0
+# environment
+USER = shotaro
+# environment
+GTK_MODULES = gail:atk-bridge
+# default
+MAKE_VERSION := 4.3
+# makefile (from 'Makefile', line 3)
+LDFLAGS = -lm
+# environment
+SSH_AGENT_PID = 1857
+# environment
+_ = /usr/bin/code
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# makefile (from 'Makefile', line 2)
+CFLAGS = -Wall
+# environment
+XRDP_SOCKET_PATH = /run/xrdp/sockdir
+# environment
+GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
+# environment
+COLORTERM = truecolor
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# makefile (from 'Makefile', line 4)
+BUILD_DIR = build
+# environment
+HOME = /home/shotaro
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-ef61238e-1.67.2-main.sock
+# environment
+TERM = xterm-256color
+# environment
+IM_CONFIG_PHASE = 1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+XRDP_SESSION = 1
+# default
+SUFFIXES := 
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+VTE_VERSION = 6800
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+XDG_MENU_PREFIX = gnome-
+# variable set hash-table stats:
+# Load=103/1024=10%, Rehash=0, Collisions=10/142=7%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 45826, inode 1054286): 9 files, no impossibilities.
+
+# 9 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+build/test.o: test.c
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-18 19:34:27.250106686
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 17):
+	$(COMPILER) $(CFLAGS) -o $@ -c $<
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 14:08:25.118412107
+#  File has been updated.
+#  Successfully updated.
+
+clean: build
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 23):
+	rm build/*
+
+# Not a target:
+test.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-18 19:34:24.394196441
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: build build/test
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+
+build:
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-18 19:34:27.550097278
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 20):
+	mkdir $(BUILD_DIR)
+
+build/test: build/test.o
+#  Implicit rule search has not been done.
+#  Last modified 2022-06-18 19:34:27.626094895
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 14):
+	$(COMPILER) $(CFLAGS) -o $@ $^ $(LDFLAGS) $(HEADER)
+
+.PHONY: all clean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=10/1024=1%, Rehash=0, Collisions=0/32=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 18 / storage = 152 B / avg = 8 B
+# current buf: size = 8162 B / used = 152 B / count = 18 / avg = 8 B
+
+# strcache performance: lookups = 37 / hit rate = 51%
+# hash-table stats:
+# Load=18/8192=0%, Rehash=0, Collisions=0/37=0%
+# Finished Make data base on Sun Jun 19 14:08:26 2022
+
+ 
